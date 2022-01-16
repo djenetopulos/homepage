@@ -1,0 +1,18 @@
+body
+{
+	background-color:#333333;
+}
+#mainWrapper
+{
+	background-color:#BBBBBB;
+	margin:auto;
+	width:400px;
+	height:1200px;
+}
+#button
+{
+	background-color:#555555;
+	margin:auto;
+	width:350px;
+	heigh:100px;
+}
